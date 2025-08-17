@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/leyo-portfolio/static/css/main.87b17d4f.css",
+    "main.js": "/leyo-portfolio/static/js/main.f3038b56.js",
+    "static/js/453.1db245fc.chunk.js": "/leyo-portfolio/static/js/453.1db245fc.chunk.js",
+    "static/media/Profile_PIC.jpg": "/leyo-portfolio/static/media/Profile_PIC.ad8a933ad511e58ebc6e.jpg",
+    "static/media/Leyo_Jaffrin_Clington_Resume.pdf": "/leyo-portfolio/static/media/Leyo_Jaffrin_Clington_Resume.81129c6442648218775f.pdf",
+    "index.html": "/leyo-portfolio/index.html",
+    "main.87b17d4f.css.map": "/leyo-portfolio/static/css/main.87b17d4f.css.map",
+    "main.f3038b56.js.map": "/leyo-portfolio/static/js/main.f3038b56.js.map",
+    "453.1db245fc.chunk.js.map": "/leyo-portfolio/static/js/453.1db245fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87b17d4f.css",
+    "static/js/main.f3038b56.js"
+  ]
+}
